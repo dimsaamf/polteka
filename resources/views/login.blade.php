@@ -68,7 +68,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 @enderror
                         </div>
                         <div class="intro-x mt-5 xl:mt-8 text-center xl:text-left">
-                            <button class="btn btn-primary py-3 px-4 w-full xl:w-32 xl:mr-3 align-top" href="#" type="submit">login</button>
+                            <button class="btn btn-primary py-3 px-4 w-full xl:w-32 xl:mr-3 align-top" href="#" type="submit">Login</button>
                         </div>
 </form>
                     </div>
